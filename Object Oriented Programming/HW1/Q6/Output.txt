@@ -1,0 +1,65 @@
+
+c:\Object Oriented Programming\HW1\Q6>"C:\Program Files\Java\jdk1.8.0_60\bin\jav
+ac" HomeWork1Question6.java
+
+c:\Object Oriented Programming\HW1\Q6>java HomeWork1Question6
+Please enter the x coordinate for Circle A
+0
+Please enter the y coordinate for Circle A
+0
+Please enter in the radius of Circle A
+5
+Please enter the x coordinate for Circle B
+11
+Please enter the y coordinate for Circle B
+0
+Please enter in the radius of Circle B
+5
+The Circles are completely seperate.
+
+c:\Object Oriented Programming\HW1\Q6>java HomeWork1Question6
+Please enter the x coordinate for Circle A
+0
+Please enter the y coordinate for Circle A
+0
+Please enter in the radius of Circle A
+5
+Please enter the x coordinate for Circle B
+10
+Please enter the y coordinate for Circle B
+0
+Please enter in the radius of Circle B
+5
+The Circles are touching.
+
+c:\Object Oriented Programming\HW1\Q6>java HomeWork1Question6
+Please enter the x coordinate for Circle A
+0
+Please enter the y coordinate for Circle A
+0
+Please enter in the radius of Circle A
+10
+Please enter the x coordinate for Circle B
+1
+Please enter the y coordinate for Circle B
+1
+Please enter in the radius of Circle B
+1
+The Circles are completely within each other.
+
+c:\Object Oriented Programming\HW1\Q6>java HomeWork1Question6
+Please enter the x coordinate for Circle A
+0
+Please enter the y coordinate for Circle A
+0
+Please enter in the radius of Circle A
+5
+Please enter the x coordinate for Circle B
+7
+Please enter the y coordinate for Circle B
+0
+Please enter in the radius of Circle B
+5
+The Circles are overlapping each other.
+
+c:\Object Oriented Programming\HW1\Q6>

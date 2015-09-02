@@ -1,0 +1,4 @@
+The case where you get a fake triangle cannot be tested because the user is providing coordinate points into the program, instead of lengths.
+Because of this, the triangle will always be possible.
+It is similar to plotting three points on a cartesian plane and connecting the dots to form a triangle.
+You will never not be able to do it unless you create a straight line, which this program does not test.
