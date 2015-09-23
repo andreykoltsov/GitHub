@@ -1,0 +1,3 @@
+Please enter the number of Queens: 
+2
+There are 0 solutions
