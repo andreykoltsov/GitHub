@@ -1,0 +1,38 @@
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+4 / 0
+Stop trying to divide by zero
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+f + 4
+Please re-enter the number
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+8 # 8
+Please enter a correct function
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+3 + 74
+77.0
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+5 * 17
+85.0
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+5 * 5.1
+25.5
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+54 / 32
+1.6875
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+10 % 2
+0.0
+
+C:\Object Oriented Programming\HW6>java HomeWork6
+15 % 2
+1.0
+
+C:\Object Oriented Programming\HW6>
